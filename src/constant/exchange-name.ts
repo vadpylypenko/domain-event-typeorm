@@ -1,0 +1,1 @@
+export const EXCHANGE_NAME = 'domain.event'

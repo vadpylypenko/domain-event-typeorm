@@ -1,0 +1,1 @@
+export const AmqpServiceToken = Symbol('AmqpService');
