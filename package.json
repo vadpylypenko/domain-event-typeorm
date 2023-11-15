@@ -32,5 +32,16 @@
     "@nestjs/typeorm": "^9.0.1",
     "@types/node": "^18.14.2",
     "typescript": "^4.9.5"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadpylypenko/domain-event-typeorm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vadpylypenko/domain-event-typeorm/issues"
+  },
+  "homepage": "https://github.com/vadpylypenko/domain-event-typeorm#readme"
 }
